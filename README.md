@@ -131,6 +131,5 @@ This project is licensed under the MIT License.
 
 For questions or collaboration, please contact:
 
-- Dr. Manjula V (manjula.v@vit.ac.in)  
 - Sooraj Naarayanan (sooraj.naarayanan2022@vitstudent.ac.in)  
 - Faiza Reza (faiza.reza2022@vitstudent.ac.in)
