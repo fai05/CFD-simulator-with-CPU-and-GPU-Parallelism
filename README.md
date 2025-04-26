@@ -18,7 +18,7 @@ The solver demonstrates significant speedup on GPUs and on CPUs making advanced 
 
 ## Installation
 Clone the repository:
-git clone https://github.com/fai05/cfd-sim.git
+git clone https://github.com/fai05/CFD-simulator-with-CPU-and-GPU-Parallelism.git
 
 Dependencies include:
 - Python 3.8+
