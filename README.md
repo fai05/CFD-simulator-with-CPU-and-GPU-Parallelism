@@ -41,7 +41,7 @@ This work builds upon recent advances in CFD parallelization, GPU computing, and
 - Python frameworks integrating C++/CUDA backends
 - Adaptive mesh refinement and load balancing techniques
 
-## Contributing
+## Contribution
 
 Contributions are welcome! Please open issues or submit pull requests for bug fixes, performance improvements, or new features.
 
